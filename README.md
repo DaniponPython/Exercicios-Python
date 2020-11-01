@@ -8,3 +8,9 @@ Tentei criar as melhores soluções para os exercícios propostos durante o mara
 ### Mundo 1  
 * [__ex001: Olá, Mundo!__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex001.py "Veja o código")  
 Neste primeiro exercício é ter o primeiro contato com a linguagem escrevendo o famoso **Olá, Mundo!** na tela.
+
+* [__ex002: Bem-Vindo!__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex002.py "Veja o código")  
+Faça um programa que leia o nome de uma pessoa e mostre uma **mensagem de boas-
+vindas**
+
+
