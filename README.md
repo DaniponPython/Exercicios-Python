@@ -16,4 +16,8 @@ vindas**
 * [__ex003: Soma__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex003.py "Veja o código")  
 Crie um programa que peça dois números e mostre a **soma** entre eles.
 
+* [__ex004__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex004.py "Veja o código")  
+Faça um programa que leia algo pelo teclado e mostre na tela seu **tipo primitivo**
+e todas as **informações** possíveis sobre ele
+
 
