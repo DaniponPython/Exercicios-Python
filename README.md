@@ -25,8 +25,7 @@ Faça um programa que leia um número inteiro e mostre na tela o seu **antecesso
 o seu sucessor**
 
 * [__ex006__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex006.py "Veja o código")  
-Faça um programa que leia um número inteiro e mostre na tela o seu **antecessor e
-o seu sucessor**
+Crie um algoritmo que leia um número e mostre seu **dobro, triplo e raíz quadrada**
 
 * [__ex007__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex007.py "Veja o código")  
 Faça um programa que leia um número inteiro e mostre na tela o seu **antecessor e
