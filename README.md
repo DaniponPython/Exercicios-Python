@@ -16,17 +16,17 @@ vindas**
 * [__ex003: Soma__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex003.py "Veja o código")  
 Crie um programa que peça dois números e mostre a **soma** entre eles.
 
-* [__ex004__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex004.py "Veja o código")  
+* [__ex004: Tipo Primitivo__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex004.py "Veja o código")  
 Faça um programa que leia algo pelo teclado e mostre na tela seu **tipo primitivo**
 e todas as **informações** possíveis sobre ele
 
-* [__ex005__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex005.py "Veja o código")  
+* [__ex005: Antecessor e Sucessor__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex005.py "Veja o código")  
 Faça um programa que leia um número inteiro e mostre na tela o seu **antecessor e
 o seu sucessor**
 
-* [__ex006__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex006.py "Veja o código")  
+* [__ex006: Dobro, triplo e Raíz Quadrada__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex006.py "Veja o código")  
 Crie um algoritmo que leia um número e mostre seu **dobro, triplo e raíz quadrada**
 
-* [__ex007__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex007.py "Veja o código")  
-Faça um programa que leia um número inteiro e mostre na tela o seu **antecessor e
-o seu sucessor**
+* [__ex007: Média do Aluno__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex007.py "Veja o código")  
+Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a
+sua **média**
