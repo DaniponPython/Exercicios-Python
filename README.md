@@ -31,15 +31,15 @@ Crie um algoritmo que leia um número e mostre seu **dobro, triplo e raíz quadr
 Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a
 sua **média**
 
-* [__ex008: Conversões__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex008.py "Veja o código")  
+* [__ex008: Convertendo metros em cm e mm__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex008.py "Veja o código")  
 Escreva um programa que leia um valor em metros e o exiba convertido em cm e mm
 
 * [__ex009: Tabuada__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex009.py "Veja o código")  
 Faça um programa que leia um número e mostre na tela a sua **tabuada**
 
 
-* [__ex010: Média do Aluno__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex010.py "Veja o código")  
-Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a
-sua **média**
+* [__ex010: Convertendo Reais em Dólares__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex010.py "Veja o código")  
+Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre
+quantos dólares ela pode comprar
 
 
