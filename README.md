@@ -30,3 +30,16 @@ Crie um algoritmo que leia um número e mostre seu **dobro, triplo e raíz quadr
 * [__ex007: Média do Aluno__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex007.py "Veja o código")  
 Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a
 sua **média**
+
+* [__ex008: Conversões__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex008.py "Veja o código")  
+Escreva um programa que leia um valor em metros e o exiba convertido em cm e mm
+
+* [__ex009: Média do Aluno__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex009.py "Veja o código")  
+Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a
+sua **média**
+
+* [__ex010: Média do Aluno__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex010.py "Veja o código")  
+Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a
+sua **média**
+
+
