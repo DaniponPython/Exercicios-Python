@@ -43,8 +43,8 @@ Faça um programa que leia a largura e a altura de uma parede em metros, calcule
 * [__ex012: Calculando descontos__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex012.py "Veja o código")  
 Faça um algoritmo que leia o preço de um produto e mostre seu novo preço com 5%.
 
-* [__ex013: __](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex013.py "Veja o código")  
-Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar
+* [__ex013: Aumento de salário__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex013.py "Veja o código")  
+Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário com 15% de aumento
 
 * [__ex014: __](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex014.py "Veja o código")  
 Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar
