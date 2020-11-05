@@ -34,14 +34,17 @@ Escreva um programa que leia um valor em metros e o exiba convertido em cm e mm
 * [__ex009: Tabuada__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex009.py "Veja o código")  
 Faça um programa que leia um número e mostre na tela a sua **tabuada**
 
-
 * [__ex010: Convertendo Reais em Dólares__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex010.py "Veja o código")  
 Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar
 
 * [__ex011: Calculando m2__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex011.py "Veja o código")  
 Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta uma área igual a 2 metros quadrados.
 
+* [__ex012: Calculando descontos__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex012.py "Veja o código")  
+Faça um algoritmo que leia o preço de um produto e mostre seu novo preço com 5%.
 
+* [__ex013: __](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex013.py "Veja o código")  
+Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar
 
-
-
+* [__ex014: __](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex014.py "Veja o código")  
+Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar
