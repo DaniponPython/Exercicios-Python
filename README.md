@@ -48,3 +48,6 @@ Faça um algoritmo que leia o salário de um funcionário e mostre seu novo sal�
 
 * [__ex014: Convertendo temperaturas__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex014.py "Veja o código")  
 Escreva um programa que converta uma temperatura digitando em graus Celsius e converta em para graus Fahrenheit
+
+* [__ex015: Aluguel de carro__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex015.py "Veja o código")  
+Escreva um programa que pergunte a quantidade de km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$ 60.00 por dia e R$ 0.15 por km rodado
