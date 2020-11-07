@@ -55,8 +55,8 @@ Escreva um programa que pergunte a quantidade de km percorridos por um carro alu
 * [__ex016: Número Inteiro__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex016.py "Veja o código")  
 Crie um programa que leia um número real qualquer pelo teclado e mostre na tela a sua porção inteira.
 
-* [__ex017: Número Inteiro__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex017.py "Veja o código")  
-Crie um programa que leia um número real qualquer pelo teclado e mostre na tela a sua porção inteira.
+* [__ex017: Pitágoras__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex017.py "Veja o código")  
+Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa.
 
 * [__ex018: Número Inteiro__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex018.py "Veja o código")  
 Crie um programa que leia um número real qualquer pelo teclado e mostre na tela a sua porção inteira.
