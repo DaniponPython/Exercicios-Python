@@ -51,3 +51,12 @@ Escreva um programa que converta uma temperatura digitando em graus Celsius e co
 
 * [__ex015: Aluguel de carro__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex015.py "Veja o código")  
 Escreva um programa que pergunte a quantidade de km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$ 60.00 por dia e R$ 0.15 por km rodado
+
+* [__ex016: Número Inteiro__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex016.py "Veja o código")  
+Crie um programa que leia um número real qualquer pelo teclado e mostre na tela a sua porção inteira.
+
+* [__ex017: Número Inteiro__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex017.py "Veja o código")  
+Crie um programa que leia um número real qualquer pelo teclado e mostre na tela a sua porção inteira.
+
+* [__ex018: Número Inteiro__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex018.py "Veja o código")  
+Crie um programa que leia um número real qualquer pelo teclado e mostre na tela a sua porção inteira.
