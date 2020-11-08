@@ -60,3 +60,6 @@ Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente 
 
 * [__ex018: Seno, Cosseno e Tangente__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex018.py "Veja o código")  
 Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
+
+* [__ex019: Sorteando alunos__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex019.py "Veja o código")  
+Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo esses nomes e escrevendo o nome do escolhido.
