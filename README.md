@@ -66,3 +66,10 @@ Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça 
 
 * [__ex020: Sorteando alunos__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex020.py "Veja o código")  
 O mesmo professor do desafio anterior quer sortear a ordem de apresentação dos trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
+
+* [__ex022: Strings__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex022.py "Veja o código")  
+Crie um programa que leia o nome completo de uma pessoa e mostre:
+O nome com todas as letras maiúsculas
+O nome com todas minúsculas
+Quantas letras ao todo (sem considerar espaços)
+Quantas letras tem o primeiro nome
