@@ -73,3 +73,16 @@ O nome com todas as letras maiúsculas
 O nome com todas minúsculas
 Quantas letras ao todo (sem considerar espaços)
 Quantas letras tem o primeiro nome
+
+* [__ex023: Mostrando os digitos__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex023.py "Veja o código")  
+Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+Ex: Digite um número: 1834
+unidade: 4
+dezena: 3
+centena: 8
+milhar: 1
+
+* [__ex024: Strings__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex024.py "Veja o código")  
+
+* [__ex025: Strings__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex025.py "Veja o código")  
+
