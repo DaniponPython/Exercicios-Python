@@ -88,4 +88,15 @@ Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com
 * [__ex025: Verificando Strings 2__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex025.py "Veja o código")  
 Crie um programa que leia o nome de uma pessoa e diga se tem "SILVA"
 
+* [__ex026: Verificando Strings 3__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex026.py "Veja o código")  
+Faça um programa que leia uma frase pelo teclado e mostre:
+Quantas vezes aparece a letra "A"
+Em que posição ela aparece pela primeira vez
+Em que posição ela aparece pela última vez
+
+* [__ex027: Verificando Strings 2__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex027.py "Veja o código")  
+
+
+* [__ex028: Verificando Strings 2__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex028.py "Veja o código")  
+
 
