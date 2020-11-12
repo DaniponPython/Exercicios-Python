@@ -104,4 +104,5 @@ primeiro = Ana
 Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido
 pelo computador. O computador deverá escrever na tela se o usuário venceu ou perdeu.
 
-
+* [__ex029: Calculando Multas__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex029.py "Veja o código")  
+Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80km/h, mostre uma msg dizendo que ele foi multado. A multa vai custar R$ 7.00 por cada km acima do limite.
