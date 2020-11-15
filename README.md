@@ -106,3 +106,6 @@ pelo computador. O computador deverá escrever na tela se o usuário venceu ou p
 
 * [__ex029: Calculando Multas__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex029.py "Veja o código")  
 Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80km/h, mostre uma msg dizendo que ele foi multado. A multa vai custar R$ 7.00 por cada km acima do limite.
+
+* [__ex030: Par ou Ímpar__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex030.py "Veja o código")  
+Crie um programa que leia um número inteiro qualquer e mostre na tela se ele é par ou ímpar
