@@ -109,3 +109,6 @@ Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80km/h
 
 * [__ex030: Par ou Ímpar__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex030.py "Veja o código")  
 Crie um programa que leia um número inteiro qualquer e mostre na tela se ele é par ou ímpar
+
+* [__ex031: Ano Bissexto__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex031.py "Veja o código")  
+Faça um programa que leia um ano qualquer e mostre se ele é Bissexto.
