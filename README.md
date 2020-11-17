@@ -116,7 +116,8 @@ Desenvolva um programa que pergunte a distância de uma viagem em km. Calcule o 
 * [__ex032: Ano Bissexto__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex032.py "Veja o código")  
 Faça um programa que leia um ano qualquer e mostre se ele é Bissexto.
 
-* [__ex033: Ano Bissexto__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex033.py "Veja o código")  
+* [__ex033: Maior e Menor Número__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex033.py "Veja o código")  
+Faça um programa que leia 3 números e mostre qual é o menor e qual é o maior.
 
 * [__ex034: Ano Bissexto__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex034.py "Veja o código")  
 
