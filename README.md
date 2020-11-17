@@ -110,5 +110,13 @@ Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80km/h
 * [__ex030: Par ou Ímpar__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex030.py "Veja o código")  
 Crie um programa que leia um número inteiro qualquer e mostre na tela se ele é par ou ímpar
 
-* [__ex031: Ano Bissexto__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex031.py "Veja o código")  
+* [__ex031: Preço da Passagem__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex031.py "Veja o código")  
+Desenvolva um programa que pergunte a distância de uma viagem em km. Calcule o preço da passagem, cobrando R$ 0.50 por km para viagens de até 200km e R$ 0.45 para viagens mais longas.
+
+* [__ex032: Ano Bissexto__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex032.py "Veja o código")  
 Faça um programa que leia um ano qualquer e mostre se ele é Bissexto.
+
+* [__ex033: Ano Bissexto__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex033.py "Veja o código")  
+
+* [__ex034: Ano Bissexto__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex034.py "Veja o código")  
+
