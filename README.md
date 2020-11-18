@@ -122,3 +122,5 @@ Faça um programa que leia 3 números e mostre qual é o menor e qual é o maior
 * [__ex034: Aumento de Salário__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex034.py "Veja o código") 
 Faça um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$ 1250,00 calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é igual a 15%
 
+* [__ex035: Triângulo__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex035.py "Veja o código") 
+Desenvolva um programa que leia o comprimento de 3 retas e diga ao usuário se elas podem formar um triângulo.
