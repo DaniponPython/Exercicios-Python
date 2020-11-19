@@ -7,7 +7,7 @@ Tentei criar as melhores soluções para os exercícios propostos durante o mara
 ***
 
 ### Mundo 1  
-No primeiro mundo vios os **fundamentos** de Python: introdução a linguagem, seus conceitos, montar o primeiro programa e ensinar alguns recursos básicos.
+No primeiro mundo vimos os **fundamentos** de Python: introdução a linguagem, seus conceitos, montar o primeiro programa e ensinar alguns recursos básicos.
 
 * [__ex001: Olá, Mundo!__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex001.py "Veja o código")  
 Neste primeiro exercício é ter o primeiro contato com a linguagem escrevendo o famoso **Olá, Mundo!** na tela.
