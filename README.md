@@ -131,3 +131,7 @@ Desenvolva um programa que leia o comprimento de 3 retas e diga ao usuário se e
 
 ### Mundo 2
 O segundo mundo apresenta as **estruturas de repetição**, muito importantes para qualquer linguagem, o professor explica sobre os comandos *if*, *else*, *for* e *while* e suas usabilidades.
+
+* [__ex036: Empréstimo Bancário__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex036.py "Veja o código") 
+Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar:
+Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.
