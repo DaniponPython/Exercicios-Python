@@ -100,8 +100,6 @@ Ex: Ana Maria de Souza
 primeiro = Ana
 último = Souza
 
-### Mundo 2
-
 * [__ex028: Jogo da Adivinhação__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex028.py "Veja o código")  
 Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido
 pelo computador. O computador deverá escrever na tela se o usuário venceu ou perdeu.
@@ -126,3 +124,8 @@ Faça um programa que pergunte o salário de um funcionário e calcule o valor d
 
 * [__ex035: Triângulo__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex035.py "Veja o código") 
 Desenvolva um programa que leia o comprimento de 3 retas e diga ao usuário se elas podem formar um triângulo.
+***
+
+### Mundo 2
+
+O segundo mundo apresenta as **estruturas de repetição**, muito importantes para qualquer linguagem, o professor explica sobre os comandos *if*, *else*, *for* e *while* e suas usabilidades.
