@@ -4,8 +4,11 @@
 [![hqdefault](https://user-images.githubusercontent.com/71028921/97096811-bf208280-1647-11eb-93b5-5e1a26d9bb32.jpg)](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0 "Acesse o Curso")
 
 Tentei criar as melhores soluções para os exercícios propostos durante o maravilhoso [Curso de Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0 "Acesse o Curso") do professor Gustavo Guanabara. Espero que a lista abaixo ajude a te dar boas idéias.  
+***
 
 ### Mundo 1  
+No primeiro mundo vios os **fundamentos** de Python: introdução a linguagem, seus conceitos, montar o primeiro programa e ensinar alguns recursos básicos.
+
 * [__ex001: Olá, Mundo!__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex001.py "Veja o código")  
 Neste primeiro exercício é ter o primeiro contato com a linguagem escrevendo o famoso **Olá, Mundo!** na tela.
 
@@ -127,5 +130,4 @@ Desenvolva um programa que leia o comprimento de 3 retas e diga ao usuário se e
 ***
 
 ### Mundo 2
-
 O segundo mundo apresenta as **estruturas de repetição**, muito importantes para qualquer linguagem, o professor explica sobre os comandos *if*, *else*, *for* e *while* e suas usabilidades.
