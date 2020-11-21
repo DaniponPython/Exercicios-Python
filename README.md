@@ -142,5 +142,10 @@ EScreva um programa que leia um número inteiro qualquer e peça pro usuário es
 2 para octal
 3 para hexadecimal
 
-* [__ex038: Empréstimo Bancário__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex038.py "Veja o código") 
+* [__ex039: Alistamento Militar__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex039.py "Veja o código")
+Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com sua idade:
+- Se ele ainda vai se alistar no serviço militar
+- Se é a hora de se alistar
+- Se já passou do tempo de alistamento
+Seu programa também deverá mostrar o tempo que falta ou que passou do prazo
 
