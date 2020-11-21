@@ -135,3 +135,12 @@ O segundo mundo apresenta as **estruturas de repetição**, muito importantes pa
 * [__ex036: Empréstimo Bancário__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex036.py "Veja o código") 
 Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar:
 Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.
+
+* [__ex037: Conversão__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex037.py "Veja o código") 
+EScreva um programa que leia um número inteiro qualquer e peça pro usuário escolher qual será a base de conversão:
+1 para binário
+2 para octal
+3 para hexadecimal
+
+* [__ex038: Empréstimo Bancário__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex038.py "Veja o código") 
+
