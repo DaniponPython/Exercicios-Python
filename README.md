@@ -149,3 +149,8 @@ Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo 
 - Se já passou do tempo de alistamento
 Seu programa também deverá mostrar o tempo que falta ou que passou do prazo
 
+* [__ex040: Media do Aluno__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex040.py "Veja o código")
+Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida.
+Média abaixo de 5 - REPROVADO
+Média entre 5 e 6.9 - RECUPERAÇÃO
+Média de 7 ou superior - APROVADO
