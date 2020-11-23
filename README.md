@@ -154,3 +154,11 @@ Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando
 Média abaixo de 5 - REPROVADO
 Média entre 5 e 6.9 - RECUPERAÇÃO
 Média de 7 ou superior - APROVADO
+
+* [__ex041: Categoria Atleta__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex041.py "Veja o código")
+A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
+Até 09 anos - Mirim
+Até 14 anos - Infantil
+Até 19 anos - Junior
+Até 25 anos - Sênior
+Acima - Master
