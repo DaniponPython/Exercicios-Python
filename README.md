@@ -170,3 +170,10 @@ Entre 18.5 e 25 - Peso ideal
 25 até 30 - Sobrepeso  
 30 até 40 - Obesidade  
 Acima de 40 - Obesidade Mórbida
+
+* [__ex044: Calculando o preço__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%202/ex044.py "Veja o código")  
+Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento:  
+a vista dinheiro/cheque: 10% de desconto  
+a vista no cartão: 5% de desconto  
+em até 2 vezes no cartão: preço normal  
+3 x ou mais no cartão: 20% de juros
