@@ -71,18 +71,18 @@ Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça 
 O mesmo professor do desafio anterior quer sortear a ordem de apresentação dos trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
 
 * [__ex022: Strings__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex022.py "Veja o código")  
-Crie um programa que leia o nome completo de uma pessoa e mostre:
-O nome com todas as letras maiúsculas
-O nome com todas minúsculas
-Quantas letras ao todo (sem considerar espaços)
+Crie um programa que leia o nome completo de uma pessoa e mostre:  
+O nome com todas as letras maiúsculas  
+O nome com todas minúsculas  
+Quantas letras ao todo (sem considerar espaços)  
 Quantas letras tem o primeiro nome
 
 * [__ex023: Mostrando os digitos__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex023.py "Veja o código")  
-Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
-Ex: Digite um número: 1834
-unidade: 4
-dezena: 3
-centena: 8
+Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.  
+Ex: Digite um número: 1834  
+unidade: 4  
+dezena: 3  
+centena: 8  
 milhar: 1
 
 * [__ex024: Verificando Strings__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex024.py "Veja o código")  
@@ -92,15 +92,15 @@ Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com
 Crie um programa que leia o nome de uma pessoa e diga se tem "SILVA"
 
 * [__ex026: Verificando Strings 3__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex026.py "Veja o código")  
-Faça um programa que leia uma frase pelo teclado e mostre:
-Quantas vezes aparece a letra "A"
-Em que posição ela aparece pela primeira vez
+Faça um programa que leia uma frase pelo teclado e mostre:  
+Quantas vezes aparece a letra "A"  
+Em que posição ela aparece pela primeira vez  
 Em que posição ela aparece pela última vez
 
 * [__ex027: Verificando Strings 4__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex027.py "Veja o código")  
-Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
-Ex: Ana Maria de Souza
-primeiro = Ana
+Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.  
+Ex: Ana Maria de Souza  
+primeiro = Ana  
 último = Souza
 
 * [__ex028: Jogo da Adivinhação__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%201/ex028.py "Veja o código")  
@@ -133,40 +133,40 @@ Desenvolva um programa que leia o comprimento de 3 retas e diga ao usuário se e
 O segundo mundo apresenta as **estruturas de repetição**, muito importantes para qualquer linguagem, o professor explica sobre os comandos *if*, *else*, *for* e *while* e suas usabilidades.
 
 * [__ex036: Empréstimo Bancário__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%202/ex036.py "Veja o código")  
-Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar:
+Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar.  
 Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.
 
 * [__ex037: Conversão__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%202/ex037.py "Veja o código")  
-Escreva um programa que leia um número inteiro qualquer e peça pro usuário escolher qual será a base de conversão:
-1 para binário
-2 para octal
+Escreva um programa que leia um número inteiro qualquer e peça pro usuário escolher qual será a base de conversão:  
+1 para binário  
+2 para octal  
 3 para hexadecimal
 
 * [__ex039: Alistamento Militar__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%202/ex039.py "Veja o código")  
-Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com sua idade:
-Se ele ainda vai se alistar no serviço militar
-Se é a hora de se alistar
-Se já passou do tempo de alistamento
+Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com sua idade:  
+Se ele ainda vai se alistar no serviço militar  
+Se é a hora de se alistar  
+Se já passou do tempo de alistamento  
 Seu programa também deverá mostrar o tempo que falta ou que passou do prazo
 
 * [__ex040: Media do Aluno__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%202/ex040.py "Veja o código")  
-Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida.
-Média abaixo de 5 - REPROVADO
-Média entre 5 e 6.9 - RECUPERAÇÃO
+Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida.  
+Média abaixo de 5 - REPROVADO  
+Média entre 5 e 6.9 - RECUPERAÇÃO  
 Média de 7 ou superior - APROVADO
 
 * [__ex041: Categoria Atleta__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%202/ex041.py "Veja o código")  
-A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
-Até 09 anos - Mirim
-Até 14 anos - Infantil
-Até 19 anos - Junior
-Até 25 anos - Sênior
+A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:  
+Até 09 anos - Mirim  
+Até 14 anos - Infantil  
+Até 19 anos - Junior  
+Até 25 anos - Sênior  
 Acima - Master
 
 * [__ex043: Calculo IMC__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%202/ex043.py "Veja o código")  
-Desenvolva uma lógica que leia o peso e a altura de uma pessoa , calcule o seu IMC e mostre seu status, de acordo com a tabela abaixo:
-Abaixo de 18.5 - Abaixo do peso
-Entre 18.5 e 25 - Peso ideal
-25 até 30 - Sobrepeso
-30 até 40 - Obesidade
+Desenvolva uma lógica que leia o peso e a altura de uma pessoa , calcule o seu IMC e mostre seu status, de acordo com a tabela abaixo:  
+Abaixo de 18.5 - Abaixo do peso  
+Entre 18.5 e 25 - Peso ideal  
+25 até 30 - Sobrepeso  
+30 até 40 - Obesidade  
 Acima de 40 - Obesidade Mórbida
