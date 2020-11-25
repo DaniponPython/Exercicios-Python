@@ -177,3 +177,6 @@ a vista dinheiro/cheque: 10% de desconto
 a vista no cartão: 5% de desconto  
 em até 2 vezes no cartão: preço normal  
 3 x ou mais no cartão: 20% de juros
+
+* [__ex045: Jokenpô__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%202/ex045.py "Veja o código")  
+Crie um programa que faça o computador jogar Jokenpô (pedra, papel, tesoura) com você.  
