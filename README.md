@@ -180,3 +180,6 @@ em até 2 vezes no cartão: preço normal
 
 * [__ex045: Jokenpô__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%202/ex045.py "Veja o código")  
 Crie um programa que faça o computador jogar Jokenpô (pedra, papel, tesoura) com você.  
+
+* [__ex046: Contagem Regressiva__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%202/ex046.py "Veja o código")  
+Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artificios, indo de 10 a zero, com uma pausa de um segundo entre eles.  
