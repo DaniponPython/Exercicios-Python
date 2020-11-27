@@ -183,3 +183,6 @@ Crie um programa que faça o computador jogar Jokenpô (pedra, papel, tesoura) c
 
 * [__ex046: Contagem Regressiva__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%202/ex046.py "Veja o código")  
 Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artificios, indo de 10 a zero, com uma pausa de um segundo entre eles.  
+
+* [__ex047: Números Pares__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%202/ex047.py "Veja o código")  
+Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50  
