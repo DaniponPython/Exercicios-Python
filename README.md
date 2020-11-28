@@ -187,4 +187,5 @@ Faça um programa que mostre na tela uma contagem regressiva para o estouro de f
 * [__ex047: Números Pares__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%202/ex047.py "Veja o código")  
 Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50  
 
+* [__ex048: Múltiplos de Três__](https://github.com/judigunkel/Exercicios-Python/blob/master/Mundo%202/ex048.py "Veja o código")  
 Faça um programa que calcule a soma entre todos os números ímpares que são múltiplos de três e que se encontram um intervalo de 1 até 500.  
